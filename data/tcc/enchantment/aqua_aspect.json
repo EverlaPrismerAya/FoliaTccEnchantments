@@ -27,7 +27,7 @@
           "predicate": {
             "block": {
               "state": {
-                "lit": "false"
+                "lit": "true"
               }
             }
           }
