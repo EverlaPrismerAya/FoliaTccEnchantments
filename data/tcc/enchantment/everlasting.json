@@ -5,6 +5,14 @@
     "fallback": "§a永存祝福"
   },
   "effects": {
+    "minecraft:hit_block": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "tcc:everlasting_anticheat"
+        }
+      }
+    ],
     "minecraft:item_damage": [
       {
         "effect": {
