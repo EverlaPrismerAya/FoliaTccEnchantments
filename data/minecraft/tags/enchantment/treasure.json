@@ -2,8 +2,6 @@
   "values": [
     "tcc:aqua_unffinity",
     "tcc:depth_fear",
-    "tcc:explosion",
-    "tcc:explosion_mahou",
     "tcc:helper_of_arthropods",
     "tcc:glass_falling",
     "tcc:friend_of_arthropods",
@@ -27,7 +25,6 @@
     "tcc:friend_of_undead",
     "tcc:vertical_splitting",
     "tcc:pvp_master",
-    "tcc:yamato_judgement_cut",
     "tcc:breaking",
     "tcc:spectre_excitation",
     "tcc:escaper",
